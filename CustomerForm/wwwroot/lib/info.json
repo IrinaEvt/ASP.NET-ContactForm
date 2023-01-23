@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "cities": [ "Plovdiv", "Sofia", "Varna" ],
+    "country": "Bulgaria"
+  },
+  {
+    "id": 1,
+    "cities": [ "Barcelona", "Madrid", "Valencia" ],
+    "country": "Spain"
+  },
+  {
+    "id": 2,
+    "cities": [ "Boston", "Dallas", "Los Angeles", "New York" ],
+    "country": "USA"
+  }
+]

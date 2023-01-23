@@ -1,0 +1,12 @@
+C:\Users\irrae\source\repos\CustomerForm\CustomerForm.Core\bin\Debug\net6.0\CustomerForm.Core.deps.json
+C:\Users\irrae\source\repos\CustomerForm\CustomerForm.Core\bin\Debug\net6.0\CustomerForm.Core.dll
+C:\Users\irrae\source\repos\CustomerForm\CustomerForm.Core\bin\Debug\net6.0\ref\CustomerForm.Core.dll
+C:\Users\irrae\source\repos\CustomerForm\CustomerForm.Core\bin\Debug\net6.0\CustomerForm.Core.pdb
+C:\Users\irrae\source\repos\CustomerForm\CustomerForm.Core\obj\Debug\net6.0\CustomerForm.Core.csproj.AssemblyReference.cache
+C:\Users\irrae\source\repos\CustomerForm\CustomerForm.Core\obj\Debug\net6.0\CustomerForm.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irrae\source\repos\CustomerForm\CustomerForm.Core\obj\Debug\net6.0\CustomerForm.Core.AssemblyInfoInputs.cache
+C:\Users\irrae\source\repos\CustomerForm\CustomerForm.Core\obj\Debug\net6.0\CustomerForm.Core.AssemblyInfo.cs
+C:\Users\irrae\source\repos\CustomerForm\CustomerForm.Core\obj\Debug\net6.0\CustomerForm.Core.csproj.CoreCompileInputs.cache
+C:\Users\irrae\source\repos\CustomerForm\CustomerForm.Core\obj\Debug\net6.0\CustomerForm.Core.dll
+C:\Users\irrae\source\repos\CustomerForm\CustomerForm.Core\obj\Debug\net6.0\ref\CustomerForm.Core.dll
+C:\Users\irrae\source\repos\CustomerForm\CustomerForm.Core\obj\Debug\net6.0\CustomerForm.Core.pdb

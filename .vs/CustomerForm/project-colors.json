@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29338aa9-dae7-49fc-acb1-47fea4f33b84": {
+      "ProjectGuid": "29338aa9-dae7-49fc-acb1-47fea4f33b84",
+      "DisplayName": "CustomerForm",
+      "ColorIndex": 0
+    },
+    "dec0be93-72a9-4b46-b5ca-8df2a87f0d6b": {
+      "ProjectGuid": "dec0be93-72a9-4b46-b5ca-8df2a87f0d6b",
+      "DisplayName": "CustomerForm.Core",
+      "ColorIndex": 1
+    },
+    "b1272749-e32d-434b-8554-e38bac0f5a2b": {
+      "ProjectGuid": "b1272749-e32d-434b-8554-e38bac0f5a2b",
+      "DisplayName": "CustomerForm.Data",
+      "ColorIndex": 2
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Script Documents",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
